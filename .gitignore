@@ -1,14 +1,4 @@
-# Скомпилированные файлы Python и кэши
-*.pyc
 __pycache__/
+.venv/
+favorites.json
 
-# Виртуальное окружение (если используется venv/venv)
-venv/
-.env
-
-# Личные данные приложения (НЕ ДОЛЖНЫ попадать в репозиторий!)
-movies.json
-
-# Файлы операционной системы (Mac/Windows)
-.DS_Store
-Thumbs.db
